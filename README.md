@@ -18,3 +18,6 @@ Ao digitar a marca, é retornado o código na FIPE da mesma.
 >Ao digitar "Valor", são solicitados os seguintes dados, um de cada vez: Marca, Modelo e Ano. Após digitados estes valores, é retornado o preço do veículo desejado.(É necessário digitar o nome do veículo de acordo com o que está escrito na FIPE)
 
 ![Pesquisa de preço](Images/Tela3b.png)
+
+>Abaixo está o diagrama de classes do projeto.
+![Diagrama de classes](ConsultaFIPEbot.jpg)
